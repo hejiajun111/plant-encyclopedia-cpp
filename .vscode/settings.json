@@ -1,5 +1,0 @@
-{
-    "code-runner.executorMap": {
-        "python": "cd $dirWithoutTrailingSlash && python -u $fileName"
-    }
-}
